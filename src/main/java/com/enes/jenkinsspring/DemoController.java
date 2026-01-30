@@ -10,6 +10,7 @@ public class DemoController {
         return """
                 <h1>Welcome to my app</h1>
                 <p>This is an example spring boot project.</p>
+                <p>CI/CD is a perfect operation on tools!!!</p>
                 """;
     }
 }
