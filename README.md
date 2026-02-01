@@ -13,7 +13,7 @@ Jenkinsi githuba bağlama
 
 11- Projenin Configure sayfasına git.
 
-12 - Post-build Actions (Build sonrası işlemler) kısmına gel.
+12 - Post-build Action s (Build sonrası işlemler) kısmına gel.
 
 13 - Add post-build action butonuna bas.
 
